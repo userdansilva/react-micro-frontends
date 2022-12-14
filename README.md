@@ -3,7 +3,7 @@ Micro fronends with vite + react + module-federation + tailwindCSS + react-route
 
 End eslint just for keeping this poc's code organized 😉
 
-Run commands below at each folder
+Run commands below for each folder
 ```bash
 yarn install
 ```
